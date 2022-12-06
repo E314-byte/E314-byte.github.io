@@ -5,7 +5,7 @@
     padding: 0;
     min-width: 100vw;
     min-height: 100vh;
-    background: url(../images/929a0df206fc69ecb7269a34733f08d9.jpeg) no-repeat;
+    background: url(929a0df206fc69ecb7269a34733f08d9.jpeg) no-repeat;
     background-position: center;
     background-size: cover;
     /* aspect-ratio: 9/16; */
@@ -49,7 +49,7 @@
 }
 
 .btn::after {
-    content: url('../images/right-arrow.svg');
+    content: url('right-arrow.svg');
     margin: 5px;
 }
 
